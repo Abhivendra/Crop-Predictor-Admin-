@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Info_update" value="name:F_ID;datatype:string,name:F_Name;datatype:string,name:Family_Size;datatype:int,name:Total_Land;datatype:real" />
+	<infoitem key="UD_farmer_basic_info" value="name:F_ID;datatype:string,name:F_Name;datatype:string,name:Family_Size;datatype:int,name:Total_Land;datatype:real" />
+	<infoitem key="UD_Farmer_address" value="name:F_ID;datatype:string,name:Village;datatype:blob,name:Block;datatype:string,name:District;datatype:string,name:State;datatype:string,name:PIN;datatype:int" />
+	<infoitem key="UD_crop_info" value="name:C_ID;datatype:int,name:Crop_Name;datatype:string" />
+	<infoitem key="UD_present_production" value="name:F_ID;datatype:string,name:C_ID;datatype:int,name:AMNT_OF_LAND_PRDCTION;datatype:int,name:ESTIMATED_PRODUCTION;datatype:real" />
+	<infoitem key="UD_previous_info" value="name:F_ID;datatype:string,name:C_ID;datatype:int,name:AMNT_OF_LAND_PRDCTION;datatype:real,name:PEVIOUS_PRODUCTION;datatype:int" />
+</info>

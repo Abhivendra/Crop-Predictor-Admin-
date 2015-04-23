@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Data_Entery" value="name:F_ID;datatype:string,name:Farmer_Name;datatype:blob,name:Family_Size;datatype:int,name:Total_Land;datatype:real" />
+	<infoitem key="UD_Farmer_Basic_detail" value="name:F_ID;datatype:string,name:F_Name;datatype:string,name:Family_Size;datatype:int,name:Total_Land;datatype:real" />
+</info>
